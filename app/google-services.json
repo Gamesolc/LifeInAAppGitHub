@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "692584207466",
+    "firebase_url": "https://lifeinaapp-1c5fa.firebaseio.com",
+    "project_id": "lifeinaapp-1c5fa",
+    "storage_bucket": "lifeinaapp-1c5fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692584207466:android:2b414fbddfa40798",
+        "android_client_info": {
+          "package_name": "tk.gamesolc.lifeinaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692584207466-jmu8b6o49jogdrj2gqhdgltvkjjblij0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tk.gamesolc.lifeinaapp",
+            "certificate_hash": "63EFBB9412A7557CC5FA28F3CFA52541076AD80C"
+          }
+        },
+        {
+          "client_id": "692584207466-hot2b01i4nkbnd1e6uopg2ab79j38cns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCSWK2EiZxX5FeI1KZiMvDsFhuCklF970"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692584207466-hot2b01i4nkbnd1e6uopg2ab79j38cns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
